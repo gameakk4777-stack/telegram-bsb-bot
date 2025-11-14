@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "8463880587:AAFprilgxyz0lPcze6phYJ0TSff83mPqeXI"
+TOKEN = "8463880587:AAHll1-aQT9ElORnmSc1VAJDud-plaskTbs"
 CHANNEL_USERNAME = "@tgpremiumsubscription"
 CHANNEL_ID = -1002036065687
 ADMIN_USERNAME = "@aslbek4777"
